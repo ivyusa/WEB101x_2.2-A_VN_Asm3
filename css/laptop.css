@@ -298,6 +298,17 @@ button:hover {
   margin-top: 20px;
   margin-bottom: 40px;
 }
+.vertical2 {
+  position: absolute;
+  top: 165px;
+  bottom: 50%;
+  height: 153.817px;
+  width: 1px;
+  background-color: orange;
+  left: 50%;
+  margin-top: 90px;
+  margin-bottom: 10px;
+}
 .certificate-item {
   display: grid;
   grid-template-columns: 2fr 3fr;
