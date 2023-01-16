@@ -1,3 +1,5 @@
+Bài viết có tham khảo một số đoạn code của ChatGPT
+
 Link : https://ivyusa.github.io/WEB101x_2.2-A_VN_Asm3/
 
 ```
