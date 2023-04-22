@@ -296,7 +296,7 @@ button:hover {
   background-color: orange;
   left: 50%;
   margin-top: 20px;
-  margin-bottom: 40px;
+  margin-bottom: 150px;
 }
 .vertical2 {
   position: absolute;
@@ -307,6 +307,17 @@ button:hover {
   background-color: orange;
   left: 50%;
   margin-top: 90px;
+  margin-bottom: 80px;
+}
+.vertical3 {
+  position: absolute;
+  top: 330px;
+  bottom: 50%;
+  height: 153.817px;
+  width: 1px;
+  background-color: orange;
+  left: 50%;
+  margin-top: 160px;
   margin-bottom: 10px;
 }
 .certificate-item {
